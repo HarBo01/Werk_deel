@@ -6,7 +6,7 @@ while aantal > 0:
     aantal = aantal - 1
 
 print("Ik ga hier morgen aan verder werken")
-
+print("Hallo Martijn")
 
 for name in gastenLijst:
     print(f"Hallo {name}\n graag nodig ik jou uit voor mijn etentje ")
