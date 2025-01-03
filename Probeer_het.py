@@ -5,7 +5,7 @@ while aantal > 0:
     gastenLijst.append(input( "Geef de naam\n"))
     aantal = aantal - 1
 
-z = 66
+print("Ik ga hier morgen aan verder werken")
 
 
 for name in gastenLijst:
