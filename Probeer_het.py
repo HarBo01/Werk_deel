@@ -7,7 +7,7 @@ while aantal > 0:
 
 print("Ik ga hier morgen aan verder werken")
 print("Hallo Martijn")
-print("Voor vandaag genoeg Python")
+
 
 for name in gastenLijst:
     print(f"Hallo {name}\n graag nodig ik jou uit voor mijn etentje ")
