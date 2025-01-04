@@ -27,7 +27,7 @@ def shuffle(deckListIn):
 
 
 # Main code
-print('Welcome to higher or lower .')
+print('Welcome to lowAndHigh')
 print('You have to choose whether the next card to be shown will be higher or lower than the current card.')
 print('Getting it right adds 20 points; get it wrong and you lose 15 points.')
 print('You have 50 points to start')
