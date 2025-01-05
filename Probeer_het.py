@@ -12,4 +12,4 @@ print("Ik ga hier morgen aan verder werken")
 for name in gastenLijst:
     print(f"Hallo {name}\n graag nodig ik jou uit voor mijn etentje ")
 
-# 3.5
+# 3.5 Gastenlijst veranderen
